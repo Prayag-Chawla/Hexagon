@@ -2,8 +2,13 @@
 ## Development of a context-aware NLP system that can understand and retrieve geospatial data based on the context provided in user queries. The system is able to infer implicit information and provide relevant geospatial data accordingly, along with a specific use case of Mars/Moon Crater Detection.
 
 
+## OUTPUT
+![image](https://github.com/user-attachments/assets/59b7802e-1311-41a8-825a-4ceb87fafe24)
+![image](https://github.com/user-attachments/assets/e6fb8b7d-5ff9-4cf2-8c40-5638cbd4c894)
 
+![image](https://github.com/user-attachments/assets/547d2f41-bbf4-4b1d-9980-e48b6bfd4209)
 
+![image](https://github.com/user-attachments/assets/20fb5056-b1a4-4977-abed-b344d87b795b)
 
 
 ## Explaination of the Repositories
